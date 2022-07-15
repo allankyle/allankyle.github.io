@@ -360,7 +360,7 @@ footer img{
         width: 150px;
     }
     .bottom-nav{
-        display: block;
+        display: none;
     }
     .bottom-nav li{
         padding: 5px 0;
@@ -382,7 +382,7 @@ footer img{
         background-color: #a18d85;
     }
     #bottom-check:checked~.bottom-nav{
-        display: none;
+        display: block;
     }
 }
 
