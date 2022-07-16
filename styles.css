@@ -43,6 +43,7 @@ body{
 		display: flex;
 		position: inherit;
 		font-family: 'montserrat',Arial, Helvetica, sans-serif;
+		transition: 300ms ease-in-out;
 		text-transform: uppercase;
 		gap: 5%;
 		margin: 0%;
