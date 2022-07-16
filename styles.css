@@ -50,7 +50,11 @@ body{
 		z-index: 2;
 	}
 	.nav a{
-		color: #eee;
+		color: #ddd;
+	}
+	.nav a:hover{
+		color: #fff;
+		transform: rotate(2deg);
 	}
 	.logo{
 		font-family: 'montserrat alternates',Arial, Helvetica, sans-serif;
